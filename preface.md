@@ -1,5 +1,7 @@
 # Go语言圣经（中文版）
 
+> 本开源书 forked from [Go语言圣经（中文版）](https://github.com/yar999/gopl-zh)，作者为 [yar999](https://github.com/yar999)，欢迎大家 star 原作者的 [repo](https://github.com/yar999/gopl-zh)，以便获得最新更新，谢谢！
+
 Go语言圣经 [《The Go Programming Language》](http://gopl.io) 中文版本，仅供学习交流之用。
 
 [![](cover_middle.jpg)](https://github.com/golang-china/gopl-zh)
